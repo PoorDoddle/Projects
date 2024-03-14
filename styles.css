@@ -1,0 +1,40 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-image: url(shutterstock_1570031575.jpg);
+  background-size: cover;
+}
+div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#form {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  color: #ffc300;
+  width: 50vh;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.5);
+}
+button {
+  margin: 2%;
+  background-color: rgb(66, 63, 63);
+  color: white;
+}
+#label {
+  font-size: 120%;
+}
+#list {
+  text-align: left;
+}
+#input {
+  background-color: black;
+  color: white;
+}
+#submit {
+  background-color: rgb(66, 63, 63);
+  color: white;
+}
